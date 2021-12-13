@@ -27,5 +27,5 @@ where :
 if uploading faild you can check the uploading errors by static method : getErrorMessages()
 
 Don't forget to Support me on :
-Facebook : https://www.facebook.com/MDRDevelopment
-instagram : https://www.instagram.com/mdr_development_tr
+<p>Facebook : https://www.facebook.com/MDRDevelopment</p>
+<p>instagram : https://www.instagram.com/mdr_development_tr</p>
