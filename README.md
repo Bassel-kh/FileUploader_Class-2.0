@@ -22,7 +22,7 @@ where :
  
 <b>$prefix is the piece of text that you want to add it to the files name (filename will be like this "your prefix" + uniqid) .</b>
 
-<b>$max_size is default 40 MB ...... if you want to change it you must pass the argument to this parameter .</b>
+<b>$max_size is default 30 MB ...... if you want to change it you must pass the argument to this parameter .</b>
 
 if uploading faild you can check the uploading errors by static method : getErrorMessages()
 
