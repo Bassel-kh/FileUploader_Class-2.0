@@ -3,7 +3,7 @@
 ##to uploading multiple files by php :
 
 your input type and name must be like this
-<b>&lt; input type="file" name="photoes[]" &gt;</b>
+<b>&lt; input type="file" name="photoes[]" multiple &gt;</b>
 
 you can upload files that end with this extenssions : pdf , jpg , jpeg , png , docx , pptx .
 you can add the extenssion that you want by add a new extenssion to the static array properity $allowedExtenssions like this :
